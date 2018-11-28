@@ -1,6 +1,7 @@
 {
   "name": "videowall-console",
   "version": "0.1.0",
+  "author": "Jon Linnell",
   "private": true,
   "dependencies": {
     "antd": "^3.10.9",
